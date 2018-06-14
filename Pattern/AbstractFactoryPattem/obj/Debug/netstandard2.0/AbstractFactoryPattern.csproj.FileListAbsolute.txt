@@ -1,0 +1,9 @@
+E:\dotnet\Pattern\AbstractFactoryPattem\bin\Debug\netstandard2.0\AbstractFactoryPattern.deps.json
+E:\dotnet\Pattern\AbstractFactoryPattem\bin\Debug\netstandard2.0\AbstractFactoryPattern.dll
+E:\dotnet\Pattern\AbstractFactoryPattem\bin\Debug\netstandard2.0\AbstractFactoryPattern.pdb
+E:\dotnet\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+E:\dotnet\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+E:\dotnet\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+E:\dotnet\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.AssemblyInfo.cs
+E:\dotnet\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.dll
+E:\dotnet\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.pdb

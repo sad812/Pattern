@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ObserverPattern</name>
+    </assembly>
+    <members>
+        <member name="T:ObserverPattern.ChineseCharactorSubject">
+            <summary>
+            中文订阅
+            </summary>
+        </member>
+        <member name="M:ObserverPattern.ChineseCharactorSubject.#ctor(System.Int32)">
+            <summary>
+            中文订阅
+            </summary>
+            <param name="state"></param>
+        </member>
+        <member name="T:ObserverPattern.IObserver">
+            <summary>
+            观察者接口
+            </summary>
+        </member>
+        <member name="M:ObserverPattern.IObserver.update(ObserverPattern.Subject)">
+            <summary>
+            /protected Subject subject;
+            </summary>
+            <param name="subject"></param>
+        </member>
+        <member name="T:ObserverPattern.BinaryObserver">
+            <summary>
+            二进制定制者
+            </summary>
+        </member>
+        <member name="M:ObserverPattern.BinaryObserver.update(ObserverPattern.Subject)">
+            <summary>
+            重写通知方法
+            </summary>
+        </member>
+        <member name="T:ObserverPattern.HexaObserver">
+            <summary>
+            十六进制
+            </summary>
+        </member>
+        <member name="M:ObserverPattern.HexaObserver.update(ObserverPattern.Subject)">
+            <summary>
+            
+            </summary>
+            <param name="subject"></param>
+        </member>
+        <member name="T:ObserverPattern.OctalObserver">
+            <summary>
+            八进制
+            </summary>
+        </member>
+        <member name="M:ObserverPattern.OctalObserver.update(ObserverPattern.Subject)">
+            <summary>
+            修改
+            </summary>
+            <param name="subject"></param>
+        </member>
+        <member name="T:ObserverPattern.Subject">
+            <summary>
+            订阅
+            </summary>
+        </member>
+        <member name="M:ObserverPattern.Subject.#ctor(System.Int32)">
+            <summary>
+            构造函数
+            </summary>
+            <param name="msg"></param>
+        </member>
+        <member name="M:ObserverPattern.Subject.getState">
+            <summary>
+            获取信息
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ObserverPattern.Subject.setState(System.Int32)">
+            <summary>
+            设置状态
+            </summary>
+            <param name="msg"></param>
+        </member>
+        <member name="M:ObserverPattern.Subject.attach(ObserverPattern.IObserver)">
+            <summary>
+            添加订阅
+            </summary>
+            <param name="observer"></param>
+        </member>
+        <member name="M:ObserverPattern.Subject.notifyAllObservers">
+            <summary>
+            通知订阅者
+            </summary>
+        </member>
+    </members>
+</doc>

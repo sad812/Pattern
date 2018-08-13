@@ -6,7 +6,7 @@ using System.Text;
 namespace FactoryPattern
 {
     /// <summary>
-    /// 工厂类
+    /// 形状工厂类
     /// </summary>
     public class ShapeFactory
     {

@@ -4,14 +4,16 @@ using System.Text;
 
 namespace ObserverPattern
 {
-    
+
     /// <summary>
     /// 观察者接口
     /// </summary>
-    /// <param name="state"></param>
     public abstract class IObserver
     {
-        //protected Subject subject;
+        /// <summary>
+        /// /protected Subject subject;
+        /// </summary>
+        /// <param name="subject"></param>
         public abstract void update(Subject subject);
     }
 }

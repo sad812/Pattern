@@ -7,3 +7,13 @@ E:\dotnet\Pattern\ObserverPattern\obj\Debug\netcoreapp2.0\ObserverPattern.Assemb
 E:\dotnet\Pattern\ObserverPattern\obj\Debug\netcoreapp2.0\ObserverPattern.AssemblyInfo.cs
 E:\dotnet\Pattern\ObserverPattern\obj\Debug\netcoreapp2.0\ObserverPattern.dll
 E:\dotnet\Pattern\ObserverPattern\obj\Debug\netcoreapp2.0\ObserverPattern.pdb
+E:\dotnet\Pattern\Pattern\ObserverPattern\bin\Debug\netcoreapp2.0\ObserverPattern.deps.json
+E:\dotnet\Pattern\Pattern\ObserverPattern\bin\Debug\netcoreapp2.0\ObserverPattern.dll
+E:\dotnet\Pattern\Pattern\ObserverPattern\bin\Debug\netcoreapp2.0\ObserverPattern.pdb
+E:\dotnet\Pattern\Pattern\ObserverPattern\obj\Debug\netcoreapp2.0\ObserverPattern.csprojAssemblyReference.cache
+E:\dotnet\Pattern\Pattern\ObserverPattern\obj\Debug\netcoreapp2.0\ObserverPattern.csproj.CoreCompileInputs.cache
+E:\dotnet\Pattern\Pattern\ObserverPattern\obj\Debug\netcoreapp2.0\ObserverPattern.AssemblyInfoInputs.cache
+E:\dotnet\Pattern\Pattern\ObserverPattern\obj\Debug\netcoreapp2.0\ObserverPattern.AssemblyInfo.cs
+E:\dotnet\Pattern\Pattern\ObserverPattern\obj\Debug\netcoreapp2.0\ObserverPattern.dll
+E:\dotnet\Pattern\Pattern\ObserverPattern\obj\Debug\netcoreapp2.0\ObserverPattern.pdb
+E:\dotnet\Pattern\Pattern\ObserverPattern\bin\Debug\netcoreapp2.0\ObserverPattern.xml

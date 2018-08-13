@@ -9,6 +9,10 @@ namespace ObserverPattern
     /// </summary>
     public class HexaObserver : IObserver
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="subject"></param>
         public override void update(Subject subject)
         {
             Console.WriteLine($"Hexa String {Convert.ToString(subject.getState(), 16)}");

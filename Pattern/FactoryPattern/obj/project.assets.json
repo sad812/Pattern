@@ -669,15 +669,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "E:\\dotnet\\Pattern\\FactoryPattern\\FactoryPattern.csproj",
+      "projectUniqueName": "E:\\dotnet\\Pattern\\Pattern\\FactoryPattern\\FactoryPattern.csproj",
       "projectName": "FactoryPattern",
-      "projectPath": "E:\\dotnet\\Pattern\\FactoryPattern\\FactoryPattern.csproj",
+      "projectPath": "E:\\dotnet\\Pattern\\Pattern\\FactoryPattern\\FactoryPattern.csproj",
       "packagesPath": "C:\\Users\\larry\\.nuget\\packages\\",
-      "outputPath": "E:\\dotnet\\Pattern\\FactoryPattern\\obj\\",
+      "outputPath": "E:\\dotnet\\Pattern\\Pattern\\FactoryPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -699,9 +696,7 @@
         }
       },
       "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
+        "allWarningsAsErrors": true
       }
     },
     "frameworks": {
@@ -710,7 +705,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },

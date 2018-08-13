@@ -7,8 +7,11 @@ namespace FactoryPattern
     /// <summary>
     /// 长方形
     /// </summary>
-    class Square : IShape
+    public class Square : IShape
     {
+        /// <summary>
+        /// 长方形
+        /// </summary>
         public void Draw()
         {
             Console.WriteLine("this's Square Draw !");

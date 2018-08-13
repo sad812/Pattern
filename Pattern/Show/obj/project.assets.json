@@ -702,11 +702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\dotnet\\Pattern\\Show\\Show.csproj",
+      "projectUniqueName": "E:\\dotnet\\Pattern\\Pattern\\Show\\Show.csproj",
       "projectName": "Show",
-      "projectPath": "E:\\dotnet\\Pattern\\Show\\Show.csproj",
+      "projectPath": "E:\\dotnet\\Pattern\\Pattern\\Show\\Show.csproj",
       "packagesPath": "C:\\Users\\larry\\.nuget\\packages\\",
-      "outputPath": "E:\\dotnet\\Pattern\\Show\\obj\\",
+      "outputPath": "E:\\dotnet\\Pattern\\Pattern\\Show\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -725,19 +725,17 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\dotnet\\Pattern\\FactoryPattern\\FactoryPattern.csproj": {
-              "projectPath": "E:\\dotnet\\Pattern\\FactoryPattern\\FactoryPattern.csproj"
+            "E:\\dotnet\\Pattern\\Pattern\\FactoryPattern\\FactoryPattern.csproj": {
+              "projectPath": "E:\\dotnet\\Pattern\\Pattern\\FactoryPattern\\FactoryPattern.csproj"
             },
-            "E:\\dotnet\\Pattern\\ObserverPattern\\ObserverPattern.csproj": {
-              "projectPath": "E:\\dotnet\\Pattern\\ObserverPattern\\ObserverPattern.csproj"
+            "E:\\dotnet\\Pattern\\Pattern\\ObserverPattern\\ObserverPattern.csproj": {
+              "projectPath": "E:\\dotnet\\Pattern\\Pattern\\ObserverPattern\\ObserverPattern.csproj"
             }
           }
         }
       },
       "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
+        "allWarningsAsErrors": true
       }
     },
     "frameworks": {
@@ -745,7 +743,7 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },

@@ -7,3 +7,13 @@ E:\dotnet\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactory
 E:\dotnet\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.AssemblyInfo.cs
 E:\dotnet\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.dll
 E:\dotnet\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.pdb
+E:\dotnet\Pattern\Pattern\AbstractFactoryPattem\bin\Debug\netstandard2.0\AbstractFactoryPattern.xml
+E:\dotnet\Pattern\Pattern\AbstractFactoryPattem\bin\Debug\netstandard2.0\AbstractFactoryPattern.deps.json
+E:\dotnet\Pattern\Pattern\AbstractFactoryPattem\bin\Debug\netstandard2.0\AbstractFactoryPattern.dll
+E:\dotnet\Pattern\Pattern\AbstractFactoryPattem\bin\Debug\netstandard2.0\AbstractFactoryPattern.pdb
+E:\dotnet\Pattern\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.csprojAssemblyReference.cache
+E:\dotnet\Pattern\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+E:\dotnet\Pattern\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+E:\dotnet\Pattern\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.AssemblyInfo.cs
+E:\dotnet\Pattern\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.dll
+E:\dotnet\Pattern\Pattern\AbstractFactoryPattem\obj\Debug\netstandard2.0\AbstractFactoryPattern.pdb

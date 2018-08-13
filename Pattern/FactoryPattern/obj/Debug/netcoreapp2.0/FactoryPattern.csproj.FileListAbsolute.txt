@@ -16,3 +16,13 @@ E:\dotnet\Pattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.Assembly
 E:\dotnet\Pattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
 E:\dotnet\Pattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.dll
 E:\dotnet\Pattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.pdb
+E:\dotnet\Pattern\Pattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.deps.json
+E:\dotnet\Pattern\Pattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.dll
+E:\dotnet\Pattern\Pattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.pdb
+E:\dotnet\Pattern\Pattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csprojAssemblyReference.cache
+E:\dotnet\Pattern\Pattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.csproj.CoreCompileInputs.cache
+E:\dotnet\Pattern\Pattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfoInputs.cache
+E:\dotnet\Pattern\Pattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.AssemblyInfo.cs
+E:\dotnet\Pattern\Pattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.dll
+E:\dotnet\Pattern\Pattern\FactoryPattern\obj\Debug\netcoreapp2.0\FactoryPattern.pdb
+E:\dotnet\Pattern\Pattern\FactoryPattern\bin\Debug\netcoreapp2.0\FactoryPattern.xml

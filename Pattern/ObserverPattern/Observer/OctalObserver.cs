@@ -9,6 +9,10 @@ namespace ObserverPattern
     /// </summary>
     public class OctalObserver : IObserver
     {
+        /// <summary>
+        /// 修改
+        /// </summary>
+        /// <param name="subject"></param>
         public override void update(Subject subject)
         {
             Console.WriteLine($"Octal String {Convert.ToString(subject.getState(), 8)}");

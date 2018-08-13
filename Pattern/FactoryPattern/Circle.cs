@@ -9,6 +9,9 @@ namespace FactoryPattern
     /// </summary>
     public class Circle : IShape
     {
+        /// <summary>
+        /// 画
+        /// </summary>
         public void Draw()
         {
             Console.WriteLine("画一个圆");

@@ -669,15 +669,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "E:\\dotnet\\Pattern\\ObserverPattern\\ObserverPattern.csproj",
+      "projectUniqueName": "E:\\dotnet\\Pattern\\Pattern\\ObserverPattern\\ObserverPattern.csproj",
       "projectName": "ObserverPattern",
-      "projectPath": "E:\\dotnet\\Pattern\\ObserverPattern\\ObserverPattern.csproj",
+      "projectPath": "E:\\dotnet\\Pattern\\Pattern\\ObserverPattern\\ObserverPattern.csproj",
       "packagesPath": "C:\\Users\\larry\\.nuget\\packages\\",
-      "outputPath": "E:\\dotnet\\Pattern\\ObserverPattern\\obj\\",
+      "outputPath": "E:\\dotnet\\Pattern\\Pattern\\ObserverPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -699,9 +696,7 @@
         }
       },
       "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
+        "allWarningsAsErrors": true
       }
     },
     "frameworks": {
@@ -710,7 +705,7 @@
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.0",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },

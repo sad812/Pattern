@@ -10,6 +10,10 @@ namespace ObserverPattern
     /// </summary>
     public class ChineseCharactorSubject : Subject
     {
+        /// <summary>
+        /// 中文订阅
+        /// </summary>
+        /// <param name="state"></param>
         public ChineseCharactorSubject(int state) : base(state)
         {
 

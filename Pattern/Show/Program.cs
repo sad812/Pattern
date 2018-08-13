@@ -32,6 +32,7 @@ namespace Show {
             //s.attach(oo);
 
             //s.setState(555);
+            Console.WriteLine(123);
             Console.WriteLine (s);
             string ss = Console.ReadLine();
             Console.WriteLine($"ss=>{ss}");
